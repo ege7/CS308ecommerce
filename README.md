@@ -1,4 +1,4 @@
-# CS308ecommerce
+# CS308ecommerce - SUrent
 
 SUrent is an online shopping web application developed for CS308 Software Engineering course at Sabancı University using MERN Stack.
 
